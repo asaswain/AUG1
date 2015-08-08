@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/asaswain/AndroidStudio/Parse-Starter-Project-1/ParseStarterProject/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black">#FF000000</color>
+    <color name="blue">#FF0000FF</color>
+    <color name="darkgrey">#FF808080</color>
+    <color name="green">#FF00FF00</color>
+    <color name="indigo">#FF7F00FF</color>
+    <color name="lightblue">#18FFFF</color>
+    <color name="lightgrey">#FFD2B48C</color>
+    <color name="orange">#FFFF8000</color>
+    <color name="purple">#FF4B0082</color>
+    <color name="red">#FFFF0000</color>
+    <color name="turquoise">#00BCD4</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellow">#FFFFFF00</color>
+    <!-- From: file:/Users/asaswain/AndroidStudio/Parse-Starter-Project-1/ParseStarterProject/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/Users/asaswain/AndroidStudio/Parse-Starter-Project-1/ParseStarterProject/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="amount_caption">Amt:</string>
+    <string name="app_name">AUG1</string>
+    <string name="chart_caption">Expenses for Date:</string>
+    <string name="date_caption">Date:</string>
+    <string name="desc_caption">Desc:</string>
+    <string name="erase_button">Erase Expenses For Day</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="parse_app_id">3RY8XYI0zm0jHpGpDbB2XgWT9xEkaqFv1Z9XtBOa</string>
+    <string name="parse_client_key">AepPo1245jsmBs4E0ArSBDU1xDJTn0LSeRzy92Sj</string>
+    <string name="save_button">Save Expenses</string>
+    <string name="save_msg">Expense Saved</string>
+    <string name="title">Enter A New Expense</string>
+    <string name="title_activity_view_graph">ViewGraphActivity</string>
+    <string name="type_caption">Type:</string>
+    <string name="view_add_button">View Add New Expenses</string>
+    <string name="view_graph_button">View Expense Chart</string>
+</resources>
