@@ -9,7 +9,7 @@
     <string name="amount_caption">Amt:</string>
     <string name="desc_caption">Desc:</string>
 
-    <string name="chart_caption">Expenses for Date:</string>
+    <string name="chart_caption">View Expenses for Date:</string>
 
     <string name="save_button">Save Expenses</string>
     <string name="erase_button">Erase Expenses For Day</string>

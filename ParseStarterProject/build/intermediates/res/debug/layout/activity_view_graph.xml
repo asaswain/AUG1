@@ -4,10 +4,10 @@
     android:background="@color/lightblue"
     android:orientation="vertical">
 
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:orientation="horizontal">
 
         <TextView
@@ -67,4 +67,4 @@
     </LinearLayout>
 
 </LinearLayout>
-<!-- From: file:/Users/asaswain/AndroidStudio/Parse-Starter-Project-1/ParseStarterProject/res/layout/activity_view_graph.xml -->
+<!-- From: file:/Users/asaswain/Downloads/AUG1/ParseStarterProject/res/layout/activity_view_graph.xml -->

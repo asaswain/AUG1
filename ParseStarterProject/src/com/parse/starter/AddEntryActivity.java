@@ -106,6 +106,10 @@ public class AddEntryActivity extends Activity {
 
 			Toast.makeText(getBaseContext(), getResources().getString(R.string.save_msg), Toast.LENGTH_LONG).show();
 		}
+
+		// reset parameter fields
+		amountText.setText(null);
+		descText.setText(null);
 	}
 
 	// view expense graph screen
